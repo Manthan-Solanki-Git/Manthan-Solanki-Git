@@ -1,4 +1,4 @@
-<!-- Banner / Header (optional if you want to add an image later) -->
+![WPT coils animation2](https://github.com/user-attachments/assets/401159ee-cfde-460e-93ee-b862360b1c18)<!-- Banner / Header (optional if you want to add an image later) -->
 <h1 align="center">⚡ Manthan Solanki - Power Electronics R&D Engineer</h1>
 <h3 align="center">Engineering the Future of Power Conversion</h3>
 
@@ -59,20 +59,20 @@ I focus on **clean design**, **reusable tools**, **efficiency optimization**, an
 ### **1️⃣ 50 W Flyback Isolated Power Supply — Industry Project**  
 Designed end-to-end from requirements → prototype.  
 Performed transformer design, loop compensation, switching behavior validation.  
-📌 *Space reserved for project images, schematics, oscillograms, or GIFs.*
+📌 *Space reserved for project images, schematics, Waveforms, or GIFs.*
 
 ---
 
 ### **2️⃣ 48 V / 600 W MPPT Charger — Industry Project**  
 Built full hardware + control architecture.  
 Validated MPPT performance and thermal behavior.  
-📌 *Space reserved for project images, schematics, oscillograms, or GIFs.*
+📌 *Space reserved for project images, schematics, Waveforms, or GIFs.*
 
 ---
 
 ### **3️⃣ Isolated MOSFET Gate Driver — Tested on 1.5 kW Buck Converter**  
 Ensured clean gate pulses, SOA margins, and thermal stability.  
-📌 *Space reserved for project images, schematics, oscillograms, or GIFs.*
+📌 *Space reserved for project images, schematics, Waveforms, or GIFs.*
 
 ---
 
@@ -80,18 +80,27 @@ Ensured clean gate pulses, SOA margins, and thermal stability.
 
 ### **Bidirectional Three-Phase Vienna Rectifier for EV Charging — PG Dissertation**  
 Modeled & prototyped; validated efficiency/THD vs targets; documented control strategy and EMI considerations.
+📌 *Space reserved for project images, schematics, Waveforms, or GIFs.*
 
 ### **EKF vs AEKF for Li-ion SOC Estimation (2nd-order RC model) — PG Seminar**  
 Compared estimator accuracy and convergence; proposed tuning for real EV drive cycles.
+📌 *Space reserved for project images, schematics, Waveforms, or GIFs.*
 
 ### **Design & Simulation of Two-Wheeler EV Model — MATLAB (Self-Learning)**  
 Built a complete EV powertrain model; analyzed battery dynamics and performance limits.
+<img width="1807" height="744" alt="MN2" src="https://github.com/user-attachments/assets/bee6b3b7-a86a-4614-ab24-276fafd9ef6b" />
 
 ### **Wireless Power Transfer — ANSYS Maxwell (Self-Learning)**  
 Simulated coupling & losses; evaluated magnetic flux distribution and coil geometry.
+![WPT coils animation2](https://github.com/user-attachments/assets/666c85a7-1fd6-455d-9a3f-7cab205be480)
 
 ### **Wireless Charging & Data Transfer Pad — UG SSIP-Selected**  
 Developed resonant coils; demonstrated wireless power + data transfer.
+
+
+
+
+
 
 ---
 
