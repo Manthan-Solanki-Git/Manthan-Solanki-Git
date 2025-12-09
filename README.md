@@ -1,4 +1,4 @@
-![WPT coils animation2](https://github.com/user-attachments/assets/401159ee-cfde-460e-93ee-b862360b1c18)<!-- Banner / Header (optional if you want to add an image later) -->
+
 <h1 align="center">⚡ Manthan Solanki - Power Electronics R&D Engineer</h1>
 <h3 align="center">Engineering the Future of Power Conversion</h3>
 
